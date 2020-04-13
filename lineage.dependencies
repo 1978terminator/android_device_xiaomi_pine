@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "Mark332/vendor_xiaomi_pine",
+    "target_path": "vendor/xiaomi/pine",
+    "branch": "pine-user-9-PKQ1.190319.001-V11.0.6.0.PCMMIXM-release-keys"
+  },
+  {
+    "repository": "MiCode/Xiaomi_Kernel_OpenSource",
+    "target_path": "kernel/xiaomi/pine",
+    "branch": "pine-p-oss"
+  }
+]
